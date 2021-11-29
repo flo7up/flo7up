@@ -1,4 +1,4 @@
-Hi therem I am Florian 👋 
+Hi there, I am Florian 👋 
 
 I am a lead consultant for AI and Data at the Swiss consulting firm ipt 
 
