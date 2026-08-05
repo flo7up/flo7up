@@ -1,16 +1,20 @@
-## Hi there 👋
+# Florian Follonier
 
-<!--
-**flo7up/flo7up** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Applied AI architect and hands-on builder at Microsoft. I turn AI strategy into secure, operable systems.
 
-Here are some ideas to get you started:
+I work on agentic applications, evaluation, observability, enterprise integration, and the engineering required to move from prototype to production.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected work
+
+| Project | What it demonstrates |
+| --- | --- |
+| [AI Web Scraping Pipeline](https://github.com/flo7up/ai-web-scraping-pipeline) | Agentic discovery, structured extraction, grounded review, deduplication, and Azure deployment. It powers [AIUseCaseHub](https://www.aiusecasehub.com/), which tracks nearly 4,000 source-linked enterprise AI use cases. |
+| [SWE-RL Forge Lite](https://github.com/flo7up/swe-rl-forge-lite) | Reproducible coding-agent evaluation using real pull requests, Dockerized tests, executable rewards, and rule-based quality gates. |
+| [Swiss German Transcription Benchmark](https://github.com/flo7up/Swiss-german-transcription-test-bench) | Evaluation across Swiss German dialects using WER, CER, latency, and reproducible benchmark runs. |
+| [Relataly Python Tutorials](https://github.com/flo7up/relataly-public-python-tutorials) | A long-running collection of practical machine-learning, deep-learning, and analytics notebooks. |
+
+## Current focus
+
+`AI agents` `evaluation` `observability` `RAG` `Microsoft Foundry` `Azure` `Python` `TypeScript`
+
+[AIUseCaseHub](https://www.aiusecasehub.com/) · [Projects](https://www.florianfollonier.com/) · [LinkedIn](https://www.linkedin.com/in/florian-follonier/)
