@@ -10,8 +10,8 @@ I work on agentic applications, evaluation, observability, enterprise integratio
 | --- | --- |
 | [AI Web Scraping Pipeline](https://github.com/flo7up/ai-web-scraping-pipeline) | Agentic discovery, structured extraction, grounded review, deduplication, and Azure deployment. It powers [AIUseCaseHub](https://www.aiusecasehub.com/), which tracks nearly 4,000 source-linked enterprise AI use cases. |
 | [SWE-RL Forge Lite](https://github.com/flo7up/swe-rl-forge-lite) | Reproducible coding-agent evaluation using real pull requests, Dockerized tests, executable rewards, and rule-based quality gates. |
+| [Relataly Python Tutorials](https://github.com/flo7up/relataly-public-python-tutorials) | Nearly 160 stars and 90+ forks across practical machine-learning, deep-learning, and analytics notebooks. |
 | [Swiss German Transcription Benchmark](https://github.com/flo7up/Swiss-german-transcription-test-bench) | Evaluation across Swiss German dialects using WER, CER, latency, and reproducible benchmark runs. |
-| [Relataly Python Tutorials](https://github.com/flo7up/relataly-public-python-tutorials) | A long-running collection of practical machine-learning, deep-learning, and analytics notebooks. |
 
 ## Current focus
 
